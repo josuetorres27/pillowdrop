@@ -1,0 +1,22 @@
+# Gradle & Android build outputs
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+app/build/
+app/release/
+
+# Keystore files
+*.jks
+*.keystore
+
+# OS / Editor files
+Thumbs.db
+*.swp
+*~
