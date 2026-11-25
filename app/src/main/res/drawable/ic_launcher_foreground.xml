@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crescent moon + phone hang-up bar -->
+    <path
+        android:fillColor="#B4C5FF"
+        android:pathData="M62,30 C49,31 39,42 39,55 C39,69 50,80 64,80 C70,80 75,78 79,74 C70,76 60,70 57,61 C54,51 58,40 67,35 C65,32 64,31 62,30 Z" />
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M36,76 L72,76 C74,76 75,77.5 75,79 C75,80.5 74,82 72,82 L36,82 C34,82 33,80.5 33,79 C33,77.5 34,76 36,76 Z" />
+</vector>
